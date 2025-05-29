@@ -1,0 +1,6 @@
+{
+  "description": "A simplified Multiplication Tables Check (MTC) practice application based on the provided specifications. It includes timed questions, on-screen number pad, and scoring.",
+  "prompt": "",
+  "requestFramePermissions": [],
+  "name": "App"
+}
